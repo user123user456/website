@@ -1,9 +1,9 @@
-# website
+
 <!DOCTYPE html>
 <html>
     <head>
         <meta charset="utf-8">
-        <link href="contact.html">
+        
         <title>Information About Me </title>
     </head>
     <body>
